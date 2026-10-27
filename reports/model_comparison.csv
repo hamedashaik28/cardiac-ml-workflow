@@ -1,0 +1,3 @@
+Model,CV ROC-AUC (Mean +/- Std),CV Recall / Sens (Mean),CV F1-Score (Mean),CV Accuracy (Mean),Test ROC-AUC,Test Recall (Sensitivity),Test Specificity,Test Precision,Test F1-Score,Test Accuracy,Test Balanced Accuracy,Test False Negatives (Missed),Test False Positives
+Logistic Regression,0.902 +/- 0.014,0.783,0.825,0.847,0.9665,0.9286,0.8485,0.8387,0.8814,0.8852,0.8885,2,5
+Random Forest,0.895 +/- 0.034,0.764,0.780,0.806,0.9426,0.8571,0.8485,0.8276,0.8421,0.8525,0.8528,4,5
